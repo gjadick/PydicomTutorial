@@ -1,4 +1,4 @@
-# PydicomTutorial
+# Pydicom Tutorial
 
 A short tutorial demonstrating usage of `pydicom`, a Python package for reading Dicom images.
 
